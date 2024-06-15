@@ -1,5 +1,3 @@
-# Mouse-macros-python
-
 # Macro_old 
 
 Un programa que permite mapear una combinación de teclas para un evento de ratón.
